@@ -1,4 +1,16 @@
 let tarefas = ['Estudar JavaScript', 'Fazer exercícios de matemática', 'Lavar a louça', 'Comprar mercado', 'Ir à academia', 'Ler um livro', 'Fazer revisão para o teste', 'Limpar o quarto', 'Estudar para concurso', 'Organizar o computador'];
 
+console.log("Tarefas");
+console.table(tarefas);
+
 tarefas.push("Lavar a roupa", "Fazer a janta");
+
+
+console.log("Depois do push");
+console.table(tarefas);
+
+
+let tarefaRemovida = tarefas.pop()
+console.log("Depois do pop");
+console.table(tarefas);
 
