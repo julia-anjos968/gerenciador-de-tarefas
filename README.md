@@ -9,3 +9,6 @@ Usa o método pop para remover a última tarefa
 ## Etapa 3: Adicionando uma tarefa no início
 Usa o método unshift para adicionar uma tarefa no início
 
+## Etapa 4: Removendo a primeira tarefa
+Usa o método shift para remover a primeira tarefa 
+
