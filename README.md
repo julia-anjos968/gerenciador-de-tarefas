@@ -35,3 +35,6 @@ Usa o método filter para filtrar as tarefas
 
 ## Etapa 12: Ordenando as tarefas
 Usa o método sort para ordenar as tarefas
+
+## Etapa 13: Invertendo a ordem das tarefas
+Usa o método reverse para inverter a ordem das tarefas
