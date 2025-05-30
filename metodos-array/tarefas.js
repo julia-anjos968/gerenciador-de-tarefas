@@ -10,7 +10,10 @@ console.log("Depois do push");
 console.table(tarefas);
 
 
-let tarefaRemovida = tarefas.pop()
+let tarefaRemovida = tarefas.pop();
 console.log("Depois do pop");
 console.table(tarefas);
 
+tarefas.unshift("Estender a roupa"); 
+console.log("Depois do unshift");
+console.table(tarefas);
