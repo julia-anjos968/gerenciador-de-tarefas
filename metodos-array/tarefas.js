@@ -32,3 +32,11 @@ if (tarefas.includes("Ir à academia")) {
 console.log("A lista de tarefas como String  ", tarefas.join(" , "));
 
 console.log("A lista de tarefas (Índices 2 a 4: ", tarefas.slice(2, 5));
+
+let tarefaRemovida = tarefas.splice(3, 1,);
+console.log(`\Com a tarefa do índice 3 removida:`)
+console.table(tarefas);
+
+let alteraTarefa = tarefas.splice(3, 0, "Ir ao médico");
+console.log("Com a tarefa do índice 3 substituída:");
+console.table(tarefas);
