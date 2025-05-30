@@ -17,3 +17,7 @@ Usa o método includes para verificar se a tarefa existe
 
 ## Etapa 6: Transformando a lista em String
 Usa o método Join para transformar a lista em String
+
+## Etapa 7: Extraindo uma parte da lista
+Usa o método slice para extrair uma parte da lista do índice 2 ao 4
+
