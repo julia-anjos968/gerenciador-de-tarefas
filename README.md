@@ -27,3 +27,7 @@ Usa o método splice para alterar a lista
 ## Etapa 9: Concatenando tarefas
 Usa o método concat para concatenar as tarefas
 
+## Etapa 10: Transformando as tarefas
+Usa o método map para transformar as tarefas 
+
+
