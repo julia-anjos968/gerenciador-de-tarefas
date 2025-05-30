@@ -40,3 +40,7 @@ console.table(tarefas);
 let alteraTarefa = tarefas.splice(3, 0, "Ir ao médico");
 console.log("Com a tarefa do índice 3 substituída:");
 console.table(tarefas);
+
+let tarefas2 = ["Ir à escola", "Estudar português", "Assistir série"];
+
+console.log("Tarefas combinada: ", tarefas.concat(tarefas2));
