@@ -28,3 +28,5 @@ if (tarefas.includes("Ir à academia")) {
     tarefas.push("Ir à academia");
     console.table(tarefas);
 }
+
+console.log("A lista de tarefas como String  ", tarefas.join(" , "));

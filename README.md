@@ -13,5 +13,7 @@ Usa o método unshift para adicionar uma tarefa no início
 Usa o método shift para remover a primeira tarefa 
 
 ## Etapa 5: Verificando se uma tarefa existe
-Usa o método includes para verificr se a tarefa existe
+Usa o método includes para verificar se a tarefa existe
 
+## Etapa 6: Transformando a lista em String
+Usa o método Join para transformar a lista em String
