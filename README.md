@@ -32,3 +32,6 @@ Usa o método map para transformar as tarefas
 
 ## Etapa 11: Filtrando as tarefas
 Usa o método filter para filtrar as tarefas
+
+## Etapa 12: Ordenando as tarefas
+Usa o método sort para ordenar as tarefas
