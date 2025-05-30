@@ -48,3 +48,6 @@ console.log("Tarefas combinada: ", tarefas.concat(tarefas2));
 let tarefasTransformadas = tarefas.map(tarefa => "fazer: " + tarefa);
 console.table(tarefasTransformadas);
 
+let tarefasFiltradas = tarefas.filter(tarefa => tarefa.length > 15);
+
+console.log(`Tarefas filtradas (tarefas com mais de 15 caracteres): ${tarefasFiltradas}`);
