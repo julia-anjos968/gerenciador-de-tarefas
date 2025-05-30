@@ -22,3 +22,9 @@ let removePrimeiraTarefa = tarefas.shift();
 console.log("Depois do shift");
 console.table(tarefas);
 
+if (tarefas.includes("Ir à academia")) {
+    console.log(`A tarefa já existe na lista`);
+} else { 
+    tarefas.push("Ir à academia");
+    console.table(tarefas);
+}

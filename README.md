@@ -12,3 +12,6 @@ Usa o método unshift para adicionar uma tarefa no início
 ## Etapa 4: Removendo a primeira tarefa
 Usa o método shift para remover a primeira tarefa 
 
+## Etapa 5: Verificando se uma tarefa existe
+Usa o método includes para verificr se a tarefa existe
+
